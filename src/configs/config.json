@@ -1,0 +1,9 @@
+{
+    "cv" : 1,
+    "train_dataset": "../data/test1/PT_dataset_mapped.csv",
+    "test_dataset": "../data/test1/US_dataset_mapped.csv",
+    "target" : "Class",
+    "use_shap" : false,
+    "models" : [["LogisticRegression", {}]],
+    "save_dir" : "../tests/test1/train-PT-test-US"
+}

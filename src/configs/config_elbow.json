@@ -1,0 +1,10 @@
+{
+    "cv" : 10,
+    "train_dataset": "../data/test1/PT_dataset_mapped.csv",
+    "test_dataset": "../data/test1/----",
+    "target" : "Class",
+    "use_shap" : false,
+    "models" : [["LogisticRegression", {}]],
+    "feature_importance" : "../data/features_importance/CV-PT/feature_importance_avg_all_seeds.csv",
+    "save_dir" : "../tests/feature-selection-elbow/CV-PT"
+}
