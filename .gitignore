@@ -178,5 +178,5 @@ images/
 tests*/
 analysis/statistical_analysis.ipynb
 analysis/feature_combination_analysis.ipynb
-features_combinations.ipynb
+features_combinations.py
 config_combination.json
