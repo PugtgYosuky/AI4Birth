@@ -1,6 +1,8 @@
 # AI4Birth
 
-Predicting  delivery type (normal or cesarean) using machine learning (ML) techniques to assist in obstetric decision-making and improve maternal care. An external validation of the models using the Consortium on Safe Labor (CSL) dataset was also added. The multivariable prediction model uses retrospectively collected tabular data to train a ML model
+Predicting  delivery type (normal or cesarean) using machine learning (ML) techniques to assist in obstetric decision-making and improve maternal care. An external validation of the models using the Consortium on Safe Labor (CSL) dataset was also added. The multivariable prediction model uses retrospectively collected tabular data to train a ML model.
+
+Note: All scripts and notebooks that contained direct information about the datasets were removed for privacy reasons.
 
 ## Authors
 
